@@ -8,8 +8,10 @@ To make use of the NFT smart contract, simply copy the `.sol` file in the `contr
 
 ## Disclaimer
 
+```
 These contracts have been used to create tutorials, and was created for the purpose to teach people how to create smart contracts on the blockchain.
 please review this code on your own before using any of
 the following code for production.
 I will not be liable in any way if for the use of the code.
 That being said, the code has been tested to the best of the developers' knowledge to work as intended.
+```
